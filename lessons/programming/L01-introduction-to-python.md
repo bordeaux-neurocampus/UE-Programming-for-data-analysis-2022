@@ -152,7 +152,8 @@ Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html),
 David Goldberg, Computing Surveys, 1991.
 
 
-The right way to compare float numbers is thus to check if the difference is below a given threshold:
+The right way to compare float numbers is thus to check if the difference is
+below a given threshold:
 
 ``` pycon
 >>> (0.1 + 0.1 + 0.1) - 0.3 < 1e-15
@@ -501,7 +502,9 @@ For multiline strings, you need to triple the enclosing quotes or to use parenth
 ```
 
 In the output above, you can seen the "\n" character has been added, it
-expresses the newline character. There are several backslashed characters:
+expresses the newline character.
+  
+<details><summary>List of backslashed characters</summary>
 
 Escape Sequence | Meaning
 ----------------|---------------------------
@@ -514,6 +517,9 @@ Escape Sequence | Meaning
 \r              | ASCII Carriage Return (CR)
 \t              | ASCII Horizontal Tab (TAB)
 \v              | ASCII Vertical Tab (TAB)
+
+</details>
+
 
 This means the '\n' will be interpreted as a new line character, but what if we
 want to really have '\n' in our string as in 'C:\\some\\name'? Either we
@@ -540,7 +546,7 @@ pretty much any glyphs fom any languages (and emojis as well).
 
 #### Tuples
 
-Tuples are immutable containers, meaning they cannot be changed after they've
+Tuples are **immutable** containers, meaning they cannot be changed after they've
 been created. They allow to store pretty much anything, including other tuples.
 To create a tuple, you simply write a comma-separated list of values,
 optionally enclosed by parentheses.
@@ -556,7 +562,7 @@ optionally enclosed by parentheses.
 
 #### Lists
 
-Lists are mutable containers quite similar to tuple, but they can be modified
+Lists are **mutable** containers quite similar to tuple, but they can be modified
 after creation. They also allow to store pretty much anything. To create a
 list, you need to write a comma-separated list of values enclosed by square
 brackets.
@@ -574,7 +580,7 @@ brackets.
 
 #### Sets
 
-Sets are mutable containers (they can be modified) and contains only unique
+Sets are **mutable** containers (they can be modified) and contains only unique
 elements, i.e. they prevent to have duplicated elements.
 
 ``` python
@@ -660,13 +666,17 @@ syntax is thus `start:end:step`.
 [1, 3, 5]
 ```
 
-What if we use a negative step? We get the reversed sequence.
+<details><summary>What if we use a negative step?</summary> 
+
+We get the reversed sequence.
 
 ``` python
 >>> d = [1,2,3,4,5,6]
 >>> d[::-1]
 [6, 5, 4, 3, 2, 1]
 ```
+
+</details>
 
 Because strings are indexable, indexing and slicing work just the same.
 
