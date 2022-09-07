@@ -4,7 +4,7 @@ How to use Colab:
 
 
 1. Go to https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true
-2. Go to the GitHub tab and paste: https://github.com/bordeaux-neurocampus/CNCC-2021-beginner
+2. Go to the GitHub tab and paste: https://github.com/bordeaux-neurocampus/UE-Programming-for-data-analysis-2022
 3. You should see all the notebooks now, choose the one you want to work on.
 4. Save a copy in your own Drive (File > Save a copy in Drive).
 5. Work on your copy, that's your file now.
