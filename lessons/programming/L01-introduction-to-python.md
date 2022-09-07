@@ -1,6 +1,3 @@
-[Computational Neuroscience Crash Course (2021)](https://github.com/bordeaux-neurocampus/CNCC-2021-beginner) —
-Arthur Leblois (CNRS) & Nicolas P. Rougier (Inria)<br/>
-
 # Introduction
 
 We introduce here Python, a powerful and easy to learn programming language. It
