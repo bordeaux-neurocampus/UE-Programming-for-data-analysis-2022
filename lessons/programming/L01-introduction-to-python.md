@@ -1279,8 +1279,15 @@ disc_area(radius=1.0)
 
 
 
+<details>
+
+<summary>
 
 ### Exercises
+
+</summary>
+
+</details>
 
 Write a function that computes the first `n` terms of the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number).
 
