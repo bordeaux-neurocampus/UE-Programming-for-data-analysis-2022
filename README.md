@@ -72,4 +72,28 @@ Participants will write short custom programs in scientific Python to analyze re
 - Start working on project
  
 
+## Working session 1 (31 October 2022, 16:00 - 18:00)
+
+All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 2 (2 November 2022, 9:00 - 11:00)
+
+All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 3 (3 November 2022, 9:00 - 11:00)
+
+All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 4 (4 November 2022, 9:00 - 11:00)
+
+All tutors present to check progress, answer questions, debug codes, etc.
+Finalization of project, report and presentation
+
+
+## Defense day (4 November 2022, 14:00 - 18:00)
+
+Each group to present their work in front of a jury.  
+10 minutes presentations and 15 minutes questions
+
+
 
