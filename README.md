@@ -1,4 +1,4 @@
-# UE-Programming-for-data-analysis-2022
+# Programming for data analysis
 
 Given the increasing complexity of neural data, more and more neuroscientists rely on computational tools for data analysis. We would like to offer the possibility to those who feel that their math / informatics background is a bit short to update their math and to get familiar with basic techniques for data analysis using the Python language.  
 
@@ -12,35 +12,94 @@ Courses will be taught in _English_.
 
 Welcome to the course!   
 
-## Schedule
 
-This year the course is (finally) taking place in-person. The course is split into _10 lectures_ and _2 mini-projects_.
+# Schedule
 
-1. Lecture 1 (2h): jeudi 08/09, 16:15-18:15
-    + Overview of the course
-    + Installations / debugging
-    + Introduction to Python and Jupyter Notebooks
-2. Lecture 2 (2h): jeudi 22/09, 16:15-18:15
-    + __Linear Algebra__: Introduction using Python
-    + Instructions for mini-project #1
-3. Lecture 3 (2h): jeudi 06/10, 16:15-18:15
-    + Scientific Computing using `numpy` and `scipy`
-    + Data Visualization using `matplotlib`
-4. Lecture 4 (2h): jeudi 20/10, 16:15-18:15
-    + __Signal Processing__: Signals in Discrete Time using Python
-    + Spectral Analysis
-    + Presentation of mini-projects #2
-5. Lecture 5 (2h): lundi 31/10, morning session, 09:00-11:00
-    + Open science and FAIR data course
-    + More info on mini-projects
-6. Lecture 6 (2h): lundi 31/10, evening session, 16:00-18:00
-    + Find your project and start working on it!
-7. Lecture 7 (2h): mercredi 2/11, 09:00-11:00
-    + Project work
-8. Lecture 8 (2h): jeudi 3/11, 09:00-11:00
-    + Project work
-9. Lecture 9 (2h): vendredi 4/11, 09:00-11:00
-    + Final lecture before the project presentations
-    + __Ask us questions!__
-10. Lecture 10 (2h): vendredi 4/11, 14:00-18:00
-    + Presentation of the final reports
+## Lecture 1 (8 September 2022, 16:15 - 18:15, room Thot)
+
+### Content
+
+- General Introduction
+- Installation setup
+- Introduction to Python
+
+### Homework
+
+- Finish [installation]() & [introduction]()
+- Read [Scipy Lecture notes chapter]()
+
+## Lecture 2 (22 September 2022, 16:15 - 18:15, room Thot)
+
+### Content
+
+- Linear Algebra
+- Vectors and matrices
+- Linear equations
+- Presentation of the mini-project 1
+
+### Homework
+
+- Solve [exercises on linear algebra]()
+- Start working on mini-project 1
+
+## Lecture 3 (6 October 2022, 16:15 - 18:15, room Thot)
+
+### Content
+
+- Introduction to numerical computing (numpy)
+- Introduction to scientific computing (scipy)
+- Introduction to data visualization (matplotlib)
+
+### Homework
+
+- Watch video on [Fourier transform]()
+- Continue on mini-project 1
+
+## Lecture 4 (20 October 2022, 16:15 - 18:15, room Thot)
+
+### Content
+
+- Introduction to signal processing
+- Introduction to spectral analysis
+- Presentation of projects
+
+### Homework
+
+- Finish mini-project and prepare a short report (1 page)
+- Choose one of the presented projects and join a team (3 or 4 members)
+
+
+## Lecture 5 (31 October 2022, 09:00 - 11:00, room 61)
+
+### Content
+
+- Progress report on each group (individual)
+- Introduction to Open Science and FAIR principles
+- Specific introduction for each project (grouped)
+
+### Homework
+
+- Start working on project
+
+
+## Working session 1 (31 October 2022, 16:00 - 18:00, room 61)
+
+- All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 2 (2 November 2022, 9:00 - 11:00, room 61)
+
+- All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 3 (3 November 2022, 9:00 - 11:00, room 61)
+
+- All tutors present to check progress, answer questions, debug codes, etc.
+
+## Working session 4 (4 November 2022, 9:00 - 11:00, room 61)
+
+- All tutors present to check progress, answer questions, debug codes, etc.
+- Finalization of project, report and presentation
+
+## Defense day (4 November 2022, 14:00 - 18:00, room 61)
+
+- Each group to present their work in front of a jury.  
+  10 minutes presentations and 15 minutes questions
