@@ -1287,8 +1287,6 @@ disc_area(radius=1.0)
 
 </summary>
 
-</details>
-
 Write a function that computes the first `n` terms of the [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number).
 
 <details><summary>
@@ -1314,6 +1312,8 @@ def fibonacci(n):
 
 <br/><br/>
 
+
+</details>
 
 
 
