@@ -25,7 +25,7 @@ Welcome to the course!
 
 ### Homework
 
-- Finish [installation]() & [introduction]()
+- Finish [installation]() & [introduction](lessons/programming/L01-introduction-to-python.md)
 - Read [Scipy Lecture notes chapter]()
 
 ## Lecture 2 (22 September 2022, 16:15 - 18:15, room Thot)
