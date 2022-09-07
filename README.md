@@ -1,1 +1,47 @@
-# UE-Programming-for-data-analysis-2022-
+# Programming for data analysis
+
+Given the increasing complexity of neural data, more and more neuroscientists rely on computational tools for data analysis. We would like to offer the possibility to those who feel that their math / informatics background is a bit short to update their math and to get familiar with basic techniques for data analysis using the Python language. For all courses (math and programming), participants are provided with basic theoretical background. Participants are proposed to do small exercises to work on their own and then solve the exercises together and make sure everybody has acquired the related concepts and techniques. Participants will get familiar with basic theoretical concepts used for the analysis of neuronal and behavioral data in neuroscience.
+Participants will write short custom programs in scientific Python to analyze real-world experimental data. Courses will be taught in English.
+
+# Schedule
+
+## Lecture 1 (8 September 2022, 16:15 - 18:15)
+
+### Content
+
+- General Introduction
+- Installation setup
+- Introduction to Python
+
+### Homework
+
+- Finish [installation]() & [introduction]()
+- Read [Scipy Lecture notes chapter]()
+
+## Lecture 2 (22 September 2022, 16:15 - 18:15)
+
+### Content
+
+- Linear Algebra
+- Vectors and matrices
+- Linear equations
+- Presentation of the mini-project 1
+
+### Homework
+
+- Solve [exercises on linear algebra]()
+- Start working on mini-project 1
+
+## Lecture 3 (6 October 2022, 16:15 - 18:15)
+
+### Content
+
+- Introduction to numerical computing (numpy)
+- Introduction to scientific computing (scipy)
+- Introduction to data visualization (matplotlib)
+
+### Homework
+
+- Watch video on [Fourier transform]()
+- Continue on mini-project 1
+
