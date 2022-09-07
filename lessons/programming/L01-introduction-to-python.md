@@ -1311,6 +1311,7 @@ def fibonacci(n):
 ```
 
 </details>
+</details>
 
 <br/><br/>
 
