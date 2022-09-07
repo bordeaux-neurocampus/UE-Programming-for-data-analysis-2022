@@ -45,3 +45,31 @@ Participants will write short custom programs in scientific Python to analyze re
 - Watch video on [Fourier transform]()
 - Continue on mini-project 1
 
+## Lecture 4 (20 October 2022, 16:15 - 18:15)
+
+### Content
+
+- Introduction to signal processing
+- Introduction to spectral analysis
+- Presentation of projects
+
+### Homework
+
+- Finish mini-project and prepare a short report (1 page)
+- Choose one of the presented projects and join a team (3 or 4 members)
+
+
+## Lecture 5 (31 October 2022, 09:00 - 11:00)
+
+### Content
+
+- Progress report on each group (individual)
+- Introduction to Open Science and FAIR principles
+- Specific introduction for each project (grouped)
+
+### Homework
+
+- Start working on project
+ 
+
+
