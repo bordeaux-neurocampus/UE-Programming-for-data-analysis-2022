@@ -1,7 +1,17 @@
 # Programming for data analysis
 
-Given the increasing complexity of neural data, more and more neuroscientists rely on computational tools for data analysis. We would like to offer the possibility to those who feel that their math / informatics background is a bit short to update their math and to get familiar with basic techniques for data analysis using the Python language. For all courses (math and programming), participants are provided with basic theoretical background. Participants are proposed to do small exercises to work on their own and then solve the exercises together and make sure everybody has acquired the related concepts and techniques. Participants will get familiar with basic theoretical concepts used for the analysis of neuronal and behavioral data in neuroscience.
-Participants will write short custom programs in scientific Python to analyze real-world experimental data. Courses will be taught in English.
+Given the increasing complexity of neural data, more and more neuroscientists rely on computational tools for data analysis. We would like to offer the possibility to those who feel that their math / informatics background is a bit short to update their math and to get familiar with basic techniques for data analysis using the Python language.  
+
+For all courses (math and programming), participants are provided with basic theoretical background. Participants are proposed to do small exercises to work on their own and then solve the exercises together and make sure everybody has acquired the related concepts and techniques.  
+
+Participants will get familiar with basic theoretical concepts used for the analysis of neuronal and behavioral data in neuroscience.  
+
+Participants will write short custom programs in scientific Python to analyze real-world experimental data.  
+
+Courses will be taught in _English_.  
+
+Welcome to the course!   
+
 
 # Schedule
 
