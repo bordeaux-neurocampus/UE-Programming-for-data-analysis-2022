@@ -734,7 +734,13 @@ The reason is that indentation has a semantic meaning but we'll see that later.
 
 <br/>
 
-### Exercises
+<details>
+
+<summary>
+  
+## Exercises
+  
+</summary>
 
 #### How to...
 
@@ -831,6 +837,7 @@ a,b = b,a
 ```
 </p></details>
 
+</details>
 
 
 <br/><br/>
