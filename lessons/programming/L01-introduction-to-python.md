@@ -152,16 +152,16 @@ Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html),
 David Goldberg, Computing Surveys, 1991.
 
 
-<details><summary>Extra info</summary>
-  The right way to compare float numbers is thus to check if the difference is below a given threshold:
+The right way to compare float numbers is thus to check if the difference is below a given threshold:
 
 ``` pycon
 >>> (0.1 + 0.1 + 0.1) - 0.3 < 1e-15
 True
 ```
 
-</details>
+<details>
 
+<summary>Extra info</summary>
 
 For each type, there exist many ways to specify the same number.
 
@@ -190,6 +190,8 @@ False
 >>> complex(0)
 0j
 ```
+
+</details>
 
 
 ### Beyond simple arithmetic
@@ -295,9 +297,17 @@ might be useful in some situations but we won't use them much in this course.
 
 
 <br/><br/>
-## Exercises
 
-Before moving to the [next lesson](02-introduction.md), here are some simple
+<details>
+
+<summary>
+  
+## Exercises
+  
+</summary>
+
+
+Before moving to the next section, here are some simple
 exercises that should take you only a few minutes to solve. If you want the
 solution, just type these expression in a Python console.
 
@@ -352,6 +362,7 @@ Click to see solution
 3 <2> 3          # False
 ```
 
+</details>
 </details>
 
 <br/><br/>
