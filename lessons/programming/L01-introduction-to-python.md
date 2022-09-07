@@ -152,13 +152,15 @@ Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html),
 David Goldberg, Computing Surveys, 1991.
 
 
-The right way to compare float numbers is thus to check if the difference is
-below a given threshold:
+<details><summary>Extra info</summary>
+  The right way to compare float numbers is thus to check if the difference is below a given threshold:
 
 ``` pycon
 >>> (0.1 + 0.1 + 0.1) - 0.3 < 1e-15
 True
 ```
+
+</details>
 
 
 For each type, there exist many ways to specify the same number.
