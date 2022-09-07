@@ -5,7 +5,7 @@ Participants will write short custom programs in scientific Python to analyze re
 
 # Schedule
 
-## Lecture 1 (8 September 2022, 16:15 - 18:15)
+## Lecture 1 (8 September 2022, 16:15 - 18:15, room Thot)
 
 ### Content
 
@@ -18,7 +18,7 @@ Participants will write short custom programs in scientific Python to analyze re
 - Finish [installation]() & [introduction]()
 - Read [Scipy Lecture notes chapter]()
 
-## Lecture 2 (22 September 2022, 16:15 - 18:15)
+## Lecture 2 (22 September 2022, 16:15 - 18:15, room Thot)
 
 ### Content
 
@@ -32,7 +32,7 @@ Participants will write short custom programs in scientific Python to analyze re
 - Solve [exercises on linear algebra]()
 - Start working on mini-project 1
 
-## Lecture 3 (6 October 2022, 16:15 - 18:15)
+## Lecture 3 (6 October 2022, 16:15 - 18:15, room Thot)
 
 ### Content
 
@@ -45,7 +45,7 @@ Participants will write short custom programs in scientific Python to analyze re
 - Watch video on [Fourier transform]()
 - Continue on mini-project 1
 
-## Lecture 4 (20 October 2022, 16:15 - 18:15)
+## Lecture 4 (20 October 2022, 16:15 - 18:15, room Thot)
 
 ### Content
 
@@ -59,7 +59,7 @@ Participants will write short custom programs in scientific Python to analyze re
 - Choose one of the presented projects and join a team (3 or 4 members)
 
 
-## Lecture 5 (31 October 2022, 09:00 - 11:00)
+## Lecture 5 (31 October 2022, 09:00 - 11:00, room 61)
 
 ### Content
 
@@ -72,25 +72,24 @@ Participants will write short custom programs in scientific Python to analyze re
 - Start working on project
  
 
-## Working session 1 (31 October 2022, 16:00 - 18:00)
+## Working session 1 (31 October 2022, 16:00 - 18:00, room 61)
 
 - All tutors present to check progress, answer questions, debug codes, etc.
 
-## Working session 2 (2 November 2022, 9:00 - 11:00)
+## Working session 2 (2 November 2022, 9:00 - 11:00, room 61)
 
 - All tutors present to check progress, answer questions, debug codes, etc.
 
-## Working session 3 (3 November 2022, 9:00 - 11:00)
+## Working session 3 (3 November 2022, 9:00 - 11:00, room 61)
 
 - All tutors present to check progress, answer questions, debug codes, etc.
 
-## Working session 4 (4 November 2022, 9:00 - 11:00)
+## Working session 4 (4 November 2022, 9:00 - 11:00, room 61)
 
 - All tutors present to check progress, answer questions, debug codes, etc.
 - Finalization of project, report and presentation
 
-
-## Defense day (4 November 2022, 14:00 - 18:00)
+## Defense day (4 November 2022, 14:00 - 18:00, room 61)
 
 - Each group to present their work in front of a jury.  
   10 minutes presentations and 15 minutes questions
