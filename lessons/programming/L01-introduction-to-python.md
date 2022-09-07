@@ -1057,7 +1057,13 @@ We can also use iterators to direclty create a list:
 This is called list comprehension and this is useful in a number of situation.
 
 
-### Exercise
+<details>
+
+<summary>
+
+### Exercises
+
+</summary>
 
 <details><summary>
 Write a program that prints the numbers from 1 to 100. But for multiples of
@@ -1091,6 +1097,7 @@ Terminate the program by pressing `CTRL-C` in the console. If you're using the J
 </p></details>
 
 
+</details>
 
 <br/><br/>
 
