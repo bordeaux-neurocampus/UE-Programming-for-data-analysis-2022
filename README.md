@@ -20,7 +20,7 @@ Welcome to the course!
 ### Content
 
 - General Introduction
-- [Installation]((lessons/programming/L01-installation.md)) setup
+- [Installation](lessons/programming/L01-installation.md) setup
 - [Introduction](lessons/programming/L01-introduction-to-python.md) to Python
 
 ### Homework
