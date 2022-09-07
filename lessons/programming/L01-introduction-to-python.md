@@ -1310,11 +1310,9 @@ def fibonacci(n):
     return u
 ```
 
-<br/><br/>
-
-
 </details>
 
+<br/><br/>
 
 
 <br/><br/>
@@ -1348,7 +1346,7 @@ of Python.
 
 ##  
 
-**Copyright © 2021** Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – Released under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+**Copyright © 2022** Arthur Leblois & [Nicolas P. Rougier](http://www.labri.fr/perso/nrougier) – Released under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 <!----------------------------- External links ------------------------------->
 [Anaconda]:     https://www.anaconda.com
