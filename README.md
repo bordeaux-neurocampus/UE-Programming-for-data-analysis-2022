@@ -99,7 +99,7 @@ Welcome to the course!
 - All tutors present to check progress, answer questions, debug codes, etc.
 - Finalization of project, report and presentation
 
-## Defense day (4 November 2022, 14:00 - 18:00, room 61)
+## Defense day (End of November 2022, TBA)
 
 - Each group to present their work in front of a jury.  
   10 minutes presentations and 15 minutes questions
