@@ -45,7 +45,7 @@ to watch the other videos though, as they are highly interesting!
 
 ### Homework
 
-- Solve [Linear Algebra Exercises Set](lessons/math/Linear_Algebra_HW_set.pdf)
+- Solve [Linear Algebra Exercises Set](lessons/math/Exercises/Linear_Algebra_HW_set.pdf)
 - Start working on mini-project 1
 
 ## Lecture 3 (6 October 2022, 16:15 - 18:15, room Thot)
