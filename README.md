@@ -37,8 +37,6 @@ Welcome to the course!
 - Linear equations
 - Presentation of the mini-project 1
 
-<img src="figures/indent.png" align="left"/>
-
 We highly recommend you start your study on linear algebra by watching the 
 [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 videos by 3Blue1Brown on YouTube. Emphasis should be placed on chapters 1-11, as these
