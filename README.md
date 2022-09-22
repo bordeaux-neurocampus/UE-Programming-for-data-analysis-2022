@@ -37,9 +37,15 @@ Welcome to the course!
 - Linear equations
 - Presentation of the mini-project 1
 
+We highly recommend you start your study on linear algebra by watching the 
+[Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+videos by 3Blue1Brown on YouTube. Emphasis should be placed on chapters 1-11, as these
+chapters cover all the material you will need to complete this course. Feel free
+to watch the other videos though, as they are highly interesting!
+
 ### Homework
 
-- Solve [exercises on linear algebra]()
+- Solve [Linear Algebra Exercises Set](lessons/math/Linear_Algebra_HW_set.pdf)
 - Start working on mini-project 1
 
 ## Lecture 3 (6 October 2022, 16:15 - 18:15, room Thot)
