@@ -58,7 +58,7 @@ to watch the other videos though, as they are highly interesting!
 
 ### Homework
 
-- Watch video on [Fourier transform](https://www.youtube.com/watch?v=7ssUImv8e4w)
+- Watch video on [Fourier series](https://www.youtube.com/watch?v=7ssUImv8e4w)
 - Continue on mini-project 1
 
 ## Lecture 4 (20 October 2022, 16:15 - 18:15, room Thot)
