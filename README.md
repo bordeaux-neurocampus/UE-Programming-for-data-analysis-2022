@@ -69,6 +69,8 @@ to watch the other videos though, as they are highly interesting!
 - Introduction to spectral analysis
 - Presentation of projects
 
+https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scrollTo=AInorI6xaKsa
+
 ### Homework
 
 - Finish mini-project and prepare a short report (1 page)
