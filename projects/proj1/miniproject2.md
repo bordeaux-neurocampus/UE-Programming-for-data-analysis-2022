@@ -9,6 +9,7 @@ Parkinsonian patients and animal models are known to display abnormal oscillatio
 The goal of the project is to quantify the oscillatory synchrony between GP neurons and the cortical EEG in the parkinsonian rats in both states. The two distinct neuronal populations of the GPe display different patterns of low frequency (1Hz) synchrony with cortical EEG in the slow wave state. Synchrony between GP neurons and EEG at beta frequency (12-30 Hz) during the activated state will be caracterized, and the correlation between GP neurons will be used to show the difference in their firing pattern during beta oscillations. Altogether, the resultsof Figure 1 of the paper can be reproduced on this sample data set.
 
 [https://doi.org/10.1016/j.neuron.2012.04.027](https://doi.org/10.1016/j.neuron.2012.04.027)
+</details>
 
 ## Amsterdam Open MRI Collection (AOMIC): Slim Karkar
 <details>
@@ -30,6 +31,7 @@ aim (ii): we will use time-frequency analysis to propose connectivity map in res
 Smith, SM, Fox, PT, Miller, KL, Glahn, DC, Fox, PM, Mackay, CE, Filippini, N, Watkins, KE, Toro, R, Laird, AR, Beckmann, CF (2009). Correspondence of the brain's functional architecture during activation and rest. Proc Natl Acad Sci U S A, 106, 31:13040-5.**
 To start preparing for the project, you can get familiar with the resources below. This pipeline is a useful guide when it comes to the steps required to preprocess (clean) EEG data:
 https://sccn.ucsd.edu/wiki/Makoto%27s_preprocessing_pipeline
+</details>
 
 ## Modeling HVC: Fjola Hyseni
 <details>
@@ -42,6 +44,7 @@ Background: Experimental evidence shows that in several sensory and motor relate
 
 Implementation: The model consists of a network of interconnected neurons or populations of neurons. The neurons are modelled as integrate and fire neurons. Each neuron in the network fires at different time instants during song production. We aim to build step by step a chain of populations of neurons featuring a propagating neuronal activity. At each step we will discuss the limits of the achieved network model and try to overcome these limits. 
 https://doi.org/10.1038/s41467-018-03261-5
+</details>
 
 ## EEG: Analyzing signals from the brain!: Nikolaos Vardalakis
 <details>
@@ -51,5 +54,6 @@ The goal of this project is to learn how to manipulate EEG data. In EEG research
 
 To start preparing for the project, you can get familiar with the resources below. This pipeline is a useful guide when it comes to the steps required to preprocess (clean) EEG data:
 https://sccn.ucsd.edu/wiki/Makoto%27s_preprocessing_pipeline
+</details>
 
 
