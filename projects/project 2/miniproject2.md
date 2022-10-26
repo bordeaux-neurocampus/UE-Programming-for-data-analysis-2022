@@ -1,5 +1,6 @@
 # Miniproject 2 
-After reading the information for each project, choose your preferred one here : https://docs.google.com/forms/d/e/1FAIpQLSd8O3dEJ7xSUpw1TkIZx80o4LlnB2x0X-Goy-jnNHnm4lTI4w/viewform.
+After reading the information for each project, choose your preferred one here : 
+https://docs.google.com/forms/d/e/1FAIpQLSd8O3dEJ7xSUpw1TkIZx80o4LlnB2x0X-Goy-jnNHnm4lTI4w/viewform?usp=sf_link.
 
 ### GP spiking data 
 _Arthur Leblois_
