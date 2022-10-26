@@ -73,7 +73,7 @@ https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scroll
 
 ### Homework
 
-- Finish mini-project and prepare a short report (1 page)
+- Finish mini-project #1 and submit the completed notebook (via email)
 - Choose one of the presented projects and join a team (3 or 4 members)
 
 
