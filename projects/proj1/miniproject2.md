@@ -1,5 +1,5 @@
 # Miniproject 2 
-## GP spiking data: Arthur Leblois
+### GP spiking data _Arthur Leblois_
 
 <details>
 
@@ -11,7 +11,7 @@ The goal of the project is to quantify the oscillatory synchrony between GP neur
 [https://doi.org/10.1016/j.neuron.2012.04.027](https://doi.org/10.1016/j.neuron.2012.04.027)
 </details>
 
-## Amsterdam Open MRI Collection (AOMIC): Slim Karkar
+### Amsterdam Open MRI Collection (AOMIC) _Slim Karkar_
 <details>
 
 <summary>Project information</summary>
@@ -33,7 +33,7 @@ To start preparing for the project, you can get familiar with the resources belo
 https://sccn.ucsd.edu/wiki/Makoto%27s_preprocessing_pipeline
 </details>
 
-## Modeling HVC: Fjola Hyseni
+### Modeling HVC _Fjola Hyseni_
 <details>
 
 <summary>Project information</summary>
@@ -46,7 +46,7 @@ Implementation: The model consists of a network of interconnected neurons or pop
 https://doi.org/10.1038/s41467-018-03261-5
 </details>
 
-## EEG: Analyzing signals from the brain!: Nikolaos Vardalakis
+### EEG: Analyzing signals from the brain! _Nikolaos Vardalakis_
 <details>
 
 <summary>Project information</summary>
