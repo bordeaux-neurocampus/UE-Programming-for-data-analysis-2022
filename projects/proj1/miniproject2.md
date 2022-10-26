@@ -49,11 +49,13 @@ _Fjola Hyseni_
 <details>
 
 <summary>Project information</summary>
-Aim: The aim of the project is to implement and investigate a simplified model of HVC.
+  
+Aim: The aim of the project is to implement and investigate a simplified model of HVC.\
 
 Background: Experimental evidence shows that in several sensory and motor related parts of the brain, neurons present an activity that depends on particular features of the sensory stimuli or of the motor output.  For example, specific neurons in the cat visual cortex modulate their firing rate depending on the orientation of the visual stimulus and neurons in the premotor song control nucleus HVC of singing birds fire preferentially at specific times during the song production. For the project, we focus mainly on the function of the nucleus HVC.
 
-Implementation: The model consists of a network of interconnected neurons or populations of neurons. The neurons are modelled as integrate and fire neurons. Each neuron in the network fires at different time instants during song production. We aim to build step by step a chain of populations of neurons featuring a propagating neuronal activity. At each step we will discuss the limits of the achieved network model and try to overcome these limits. 
+Implementation: The model consists of a network of interconnected neurons or populations of neurons. The neurons are modelled as integrate and fire neurons. Each neuron in the network fires at different time instants during song production. We aim to build step by step a chain of populations of neurons featuring a propagating neuronal activity. At each step we will discuss the limits of the achieved network model and try to overcome these limits. \
+  
 https://doi.org/10.1038/s41467-018-03261-5
 </details>
 
