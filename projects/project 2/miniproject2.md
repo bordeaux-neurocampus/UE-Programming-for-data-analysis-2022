@@ -33,7 +33,7 @@ aim (i):  we will study HRF variation for various task and use convolution tool
 aim (ii): we will use time-frequency analysis to propose connectivity map in resting-state and compared with the RSN proposed in the paper :  
 Smith, SM, Fox, PT, Miller, KL, Glahn, DC, Fox, PM, Mackay, CE, Filippini, N, Watkins, KE, Toro, R, Laird, AR, Beckmann, CF (2009). Correspondence of the brain's functional architecture during activation and rest. Proc Natl Acad Sci U S A, 106, 31:13040-5.**
 
-  To start preparing for the project, you can get familiar with the resources below. This pipeline is a useful guide when it comes to the steps required to preprocess (clean) EEG data: https://sccn.ucsd.edu/wiki/Makoto%27s_preprocessing_pipeline.
+
   
 </details>
 
