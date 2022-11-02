@@ -107,7 +107,7 @@ https://colab.research.google.com/drive/1jnkeeQPHpbTZBp0TUmoM012Jr6etTOVW#scroll
 - All tutors present to check progress, answer questions, debug codes, etc.
 - Finalization of project, report and presentation
 
-## Defense day (End of November 2022, TBA)
+## Defense day (22 November 2022, 8:00-12:00, room Thot)
 
 - Each group to present their work in front of a jury.  
   10 minutes presentations and 15 minutes questions
