@@ -62,3 +62,71 @@ Implementation: The model consists of a network of interconnected neurons or pop
 https://doi.org/10.1038/s41467-018-03261-5
 </details>
 
+--- 
+## What needs to be done for mini-project 2
+
+## Report and notebooks are due (by mail) on Monday 21 November, 8am.
+
+--- 
+### Notebook
+
+The notebook will be mostly used to prepare your figures for the report (see below). Make sure to make it easy to generate figures. Ideally, the last few cells of your notebook should produce directly the figures that are included in the report. You can also produces supplementary figures that won't be included in the report but could be used for presentation.
+
+--- 
+### Report
+
+A short report (2 pages (or more if necessary)) with the structures described below. No need to have extensive description of the context, you can make the report very short and writing quality is not a criteriokn as long as we can understand what you write.
+
+#### Title + authors
+
+#### Abstract
+
+#### Introduction
+- What is the domain and what kind of data or model
+- What are the questions you're trying to answer
+- What are your starting hypothesis
+
+#### Methods & materials
+- Describe briefly the nature of your data (if any)
+- Describe the method you'll be using to analyse
+  or describe the model you're using with proper reference
+- Explain how to check if your analysis is correct
+
+#### Results
+- Introduce your results with some text and figure.
+  (Make sure to caption your figure to explain what is to be seen)
+
+#### Conclusion/Discussion
+- What are the limits of your analysis (if any)
+- How hard would it be to use other data or model with your code?
+
+#### References
+
+
+--- 
+### Presentation
+
+The goal of the presentation is to introduce your data analysis or modelling following more or less your report structure. 10 minutes is very short such that you might need to focus on a specific part of your analysis pipeline.
+
+10 minutes presentation (~ 10 slides)
+15 minutes question (with possibly live demo of your notebook)
+
+--- 
+### Evaluation criterions
+
+#### Notebook
+- Can we download your notebook according to the description in your report
+- Is your notebook well organized (e.g. comments, explanations with markdown, name of variables, not too big cells, etc)
+- Do we get the same figure as the ones in your report when xe run your notebook
+
+#### Report
+
+- If we were to redo you analysis/model from the report, do we have enough information (data and code access for example)
+- Did you caption every figures ?
+- Do you have links to code and data (or explanation how to get them)
+
+#### Defense
+
+- No requirements for each member of the group to talk, you can choose to have only one speaker.
+- We might ask you to re-run a part of your notebook, modifying this or that parameters. 
+
